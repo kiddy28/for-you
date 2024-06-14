@@ -1,1 +1,25 @@
-# for-you
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Ucapan Selamat Ulang Tahun!</title>
+    <link rel="stylesheet" href="sa.css">
+</head>
+<body>
+    <div class="container">
+        <h1>Ucapan Selamat Ulang Tahun!</h1>
+        <div class="birthday-person">
+            <img src="birthday.jpg" alt="Foto Orang yang Berulang Tahun">
+            <p>Selamat ulang tahun yang ke-25! Semoga hari ini penuh dengan kebahagiaan dan tawa.</p>
+        </div>
+        <div class="message">
+            <p>Terima kasih telah menjadi bagian dari kehidupan kami. Semoga tahun ini membawa banyak keberuntungan dan prestasi bagi Anda.</p>
+            <p>Semoga setiap momen spesial di hari ulang tahunmu menghadirkan banyak kenangan manis yang akan kita simpan selamanya.</p>
+        </div>
+        <footer>
+            <p>Dibuat dengan ❤️ oleh [Nama Anda], [Tanggal]</p>
+        </footer>
+    </div>
+</body>
+</html>
